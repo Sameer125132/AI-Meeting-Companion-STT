@@ -1,7 +1,5 @@
 # Business AI Meeting Companion 🚀
 
-![cognitiveclass.ai logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/logo/cognitiveclass-logo.png)
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Framework: Gradio](https://img.shields.io/badge/Framework-Gradio-orange)](https://gradio.app/)
@@ -318,12 +316,6 @@ python3 speech_analyzer.py
 ```
 
 Open your browser to [http://0.0.0.0:7860](http://0.0.0.0:7860), upload a meeting recording, and see the AI-generated summary and key points!
-
----
-
-## 📸 Screenshots
-
-<!-- Add screenshots of your app UI here -->
 
 ---
 
