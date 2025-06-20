@@ -111,12 +111,6 @@ Then open [http://0.0.0.0:7860](http://0.0.0.0:7860), upload a meeting recording
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here! -->
-
----
-
 ## 📄 License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
